@@ -1,6 +1,6 @@
 body {
     font-family: "Chivo", sans-serif;
-    background-color: rgb(189, 156, 255);
+    background-color: rgb(176, 149, 230);
     margin: 0;
     padding: 0;
     width: 100%;
@@ -121,7 +121,7 @@ body {
 
 .lionphoto {
     height: 380px;
-    width:350px ;
+    width:300px ;
     border-radius: 15px; /* ¶ê¨¤ */
     margin-top: 0px;
 }
